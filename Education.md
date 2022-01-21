@@ -1,3 +1,10 @@
+---
+
+layout: page
+title: Education
+
+---
+
 # Education
 
 |School|Date of Start|Date Achieved|
