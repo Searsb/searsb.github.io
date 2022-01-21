@@ -1,5 +1,5 @@
 # Write Ups
 
-|Service|Challenge Name|Date Published|
+| Service | Challenge Name | Date Published |
 ----
-|HTB|TEST|TEST|
+| HTB | TEST | TEST |
