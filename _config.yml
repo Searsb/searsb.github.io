@@ -36,6 +36,8 @@ theme: minima
 plugins:
   - jekyll-readme-index
 
+# Google Analytics
+google_analytics: G-Y0TZ89PQ6J
 
 
 
