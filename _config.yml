@@ -32,9 +32,10 @@ linkedin_username: bsears
 
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
 plugins:
-  - jekyll-readme-index
+  - jekyll-remote-theme
 
 # Google Analytics
 google_analytics: G-Y0TZ89PQ6J
