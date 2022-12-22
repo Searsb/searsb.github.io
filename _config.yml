@@ -37,9 +37,11 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-toc
+  - jekyll-readme-index
 # Google Analytics
 google_analytics: G-Y0TZ89PQ6J
 
 minima:
   skin: dark
   date_format: "%b %-d, %Y"
+
