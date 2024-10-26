@@ -12,10 +12,11 @@ Radio signals is another interest of mine and because of that I am Ham Radio Cer
 
 ![gofer24](https://www.hackthebox.eu/badge/image/467637)
 
-<!-- OSCP -->
-<div data-iframe-width="150" data-iframe-height="270"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370"/></div>
-<!-- OSEP -->
-<div data-iframe-width="150" data-iframe-height="270"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628"/></div>
+<!-- Offsec -->
+<div data-iframe-width="150" data-iframe-height="270">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628"/>
+</div>
 
 <!-- CISSP -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e00c106-8aaa-4244-9eb8-3ae4aa1386d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
