@@ -10,17 +10,21 @@ I am Bryan Sears. A Cyber Security Engineer for Shorepoint Inc. I recieved my ba
 
 Radio signals is another interest of mine and because of that I am Ham Radio Certified. My Call sigh is KD9QHL.
 
-![gofer24](https://www.hackthebox.eu/badge/image/467637)
+## Credentials
 
+### ISC2
+<!-- CISSP -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e00c106-8aaa-4244-9eb8-3ae4aa1386d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<br>
+
+### OffSec
 <!-- Offsec -->
 <div data-iframe-width="150" data-iframe-height="270">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628"/>
 </div>
 
-<!-- CISSP -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e00c106-8aaa-4244-9eb8-3ae4aa1386d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+### Comptia
 <!-- Lin+ -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91e4a065-2c39-4045-8a1c-9ff979273457" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -33,5 +37,9 @@ Radio signals is another interest of mine and because of that I am Ham Radio Cer
 <!-- CSAP -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbecfd0e-92ef-454c-8eaf-dd0af6efc8a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+### ZeroPoint Security
 <!-- CRTO -->
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/p_xe9fz-T1adMun8Gx9CNQ"><img src="https://api.eu.badgr.io/public/assertions/p_xe9fz-T1adMun8Gx9CNQ/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #ffffff;">Red Team Operator</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #ffffff;">Awarded: </strong>Apr 17, 2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #ffffff;">Awarded To: </strong><span style="display: block;"> Bryan Sears</span></p><script async="async" src="https://eu.badgr.com/assets/widgets.bundle.js"></script></blockquote>
+
+### Hack The Box
+![gofer24](https://www.hackthebox.eu/badge/image/467637)
