@@ -1,30 +1,59 @@
 ---
-layout: home
 title: "Home"
 order: 1
+toc: True
 ---
 
-## About Me
+# Work
+---
 
-I am Bryan Sears. A Cyber Security Engineer for Shorepoint Inc. I recieved my bachelors of Science. computer science and information technology from Trine University in 2021. I have recently started the Master of Science in Cyber Security and Information assurance from WGU. I also advise Trine's computer science club as a community expert advisor. I also volunteer with the Fort Wayne BSides conference. I am available to mentor anybody who is interested in the IT field. While my expertise is in cyber security I have experience with Help desk, System Administrator, Database Administration, Web Development, DevOps and project management
+## Security Engineer (Penetration Tester)
+Shorepoint Inc (October 2022 - Present)
 
-Radio signals is another interest of mine and because of that I am Ham Radio Certified. My Call sigh is KD9QHL.
+## Jr Security Analyst
+Ruoff Mortgage (November 2021 - September 2022)
 
-## Credentials
+## Application Developer
+Trine University (February 2019 - November 2021)
 
-### ISC2
+# Education
+---
+
+## Masters in Science, Cyber Security and Information Assurance
+WGU December (December 2022 - December 2023)
+
+## Bachelor of Science, Computer Science and Information Technology
+Trine University (August 2018 - May 2021)
+
+# Extracurriculars
+---
+
+- [BSides Fort Wayne ](https://bsidesfortwayne.org/)
+  - CTF Leader
+  - Speaker 2023
+
+- [CVE-2024-6404](https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04)
+
+- ![gofer24](https://www.hackthebox.eu/badge/image/467637)
+
+- Speaker @ [Cooperative Technology Conference 2024](https://cooperativetechnologyconference.com/)
+
+# Certs
+---
+
+## ISC2
 <!-- CISSP -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e00c106-8aaa-4244-9eb8-3ae4aa1386d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <br>
 
-### OffSec
+## OffSec
 <!-- Offsec -->
 <div data-iframe-width="150" data-iframe-height="270">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628"/>
 </div>
 
-### Comptia
+## Comptia
 <!-- Lin+ -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91e4a065-2c39-4045-8a1c-9ff979273457" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -34,12 +63,9 @@ Radio signals is another interest of mine and because of that I am Ham Radio Cer
 <!-- CySA+ -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e78e261-4d27-4aba-9bd6-fe9155e9613c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<!-- CSAP -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbecfd0e-92ef-454c-8eaf-dd0af6efc8a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-### ZeroPoint Security
+<!-- CASP+ -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="609c7840-0c2d-47bd-ab8d-7d77e6851d6f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## ZeroPoint Security
 <!-- CRTO -->
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/p_xe9fz-T1adMun8Gx9CNQ"><img src="https://api.eu.badgr.io/public/assertions/p_xe9fz-T1adMun8Gx9CNQ/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #ffffff;">Red Team Operator</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #ffffff;">Awarded: </strong>Apr 17, 2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #ffffff;">Awarded To: </strong><span style="display: block;"> Bryan Sears</span></p><script async="async" src="https://eu.badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
-### Hack The Box
-![gofer24](https://www.hackthebox.eu/badge/image/467637)
