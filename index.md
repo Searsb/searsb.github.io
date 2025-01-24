@@ -51,6 +51,7 @@ Trine University (August 2018 - May 2021)
 <div data-iframe-width="150" data-iframe-height="270">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/123195687">
 </div>
 
 ## Comptia
