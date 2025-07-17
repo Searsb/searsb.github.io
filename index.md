@@ -6,9 +6,11 @@ toc: True
 
 # Work
 ---
+## Security Architect
+Brotherhood Mutual (May 2025 - Present)
 
 ## Security Engineer (Penetration Tester)
-Shorepoint Inc (October 2022 - Present)
+Shorepoint Inc (October 2022 - May 2025)
 
 ## Jr Security Analyst
 Ruoff Mortgage (November 2021 - September 2022)
@@ -29,7 +31,7 @@ Trine University (August 2018 - May 2021)
 ---
 
 - [BSides Fort Wayne ](https://bsidesfortwayne.org/)
-  - CTF Leader
+  - CTF Lead
   - Speaker 2023
 
 - [CVE-2024-6404](https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04)
@@ -52,6 +54,7 @@ Trine University (August 2018 - May 2021)
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/123195687">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/154942485">
 </div>
 
 ## Comptia
