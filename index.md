@@ -34,7 +34,7 @@ Trine University (August 2018 - May 2021)
   - CTF Lead
   - Speaker 2023
 
-- [CVE-2024-6404](https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04)
+- [CVE-2025-8769.](https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04)
 
 - ![gofer24](https://www.hackthebox.eu/badge/image/467637)
 
