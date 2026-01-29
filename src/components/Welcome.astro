@@ -1,0 +1,336 @@
+---
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+
+interface Props {
+  title?: string;
+}
+
+const { title = "Home" } = Astro.props;
+---
+
+<Header title="Bryan Sears" />
+
+<div class="container">
+  <main>
+    <h1>{title}</h1>
+
+    <section>
+      <h2>Work</h2>
+      <article>
+        <h3>Security Architect</h3>
+        <p>Brotherhood Mutual (May 2025 - Present)</p>
+      </article>
+
+      <article>
+        <h3>Security Engineer (Penetration Tester)</h3>
+        <p>Shorepoint Inc (October 2022 - May 2025)</p>
+      </article>
+
+      <article>
+        <h3>Jr Security Analyst</h3>
+        <p>Ruoff Mortgage (November 2021 - September 2022)</p>
+      </article>
+
+      <article>
+        <h3>Application Developer</h3>
+        <p>Trine University (February 2019 - November 2021)</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <article>
+        <h3>Masters in Science, Cyber Security and Information Assurance</h3>
+        <p>WGU December (December 2022 - December 2023)</p>
+      </article>
+
+      <article>
+        <h3>Bachelor of Science, Computer Science and Information Technology</h3>
+        <p>Trine University (August 2018 - May 2021)</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Extracurriculars</h2>
+      <ul>
+        <li>
+          <a href="https://bsidesfortwayne.org/">BSides Fort Wayne</a>
+          <ul>
+            <li>CTF Lead</li>
+            <li>Speaker 2023</li>
+          </ul>
+        </li>
+        <li>
+          <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-04">CVE-2025-8769</a>
+        </li>
+        <li>
+          <img src="https://www.hackthebox.eu/badge/image/467637" alt="gofer24 HackTheBox Badge" />
+        </li>
+        <li>
+          Speaker @ <a href="https://cooperativetechnologyconference.com/">Cooperative Technology Conference 2024</a>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Certifications</h2>
+
+      <article>
+        <h3>ISC2</h3>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e00c106-8aaa-4244-9eb8-3ae4aa1386d1" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      </article>
+
+      <article>
+        <h3>OffSec</h3>
+        <div class="badge-container">
+          <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50225370" alt="OffSec Badge 1" />
+          <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103599628" alt="OffSec Badge 2" />
+          <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/123195687" alt="OffSec Badge 3" />
+          <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/154942485" alt="OffSec Badge 4" />
+        </div>
+      </article>
+
+      <article>
+        <h3>CompTIA</h3>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91e4a065-2c39-4045-8a1c-9ff979273457" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c8ad38bf-4ff6-4554-b7c4-e33c2ae6d3cd" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e78e261-4d27-4aba-9bd6-fe9155e9613c" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="742d4a50-d795-4715-a00b-dcf95596630a" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="609c7840-0c2d-47bd-ab8d-7d77e6851d6f" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      </article>
+
+      <article>
+        <h3>ZeroPoint Security</h3>
+        <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+          <a href="https://api.eu.badgr.io/public/assertions/p_xe9fz-T1adMun8Gx9CNQ">
+            <img src="https://api.eu.badgr.io/public/assertions/p_xe9fz-T1adMun8Gx9CNQ/image" width="120px" height="120px" alt="Red Team Operator Badge" />
+          </a>
+          <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #ffffff;">Red Team Operator</p>
+          <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #ffffff;">Awarded: </strong>Apr 17, 2023</p>
+          <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #ffffff;">Awarded To: </strong><span style="display: block;"> Bryan Sears</span></p>
+          <script async src="https://eu.badgr.com/assets/widgets.bundle.js"></script>
+        </blockquote>
+      </article>
+    </section>
+  </main>
+</div>
+
+<Footer />
+
+<style is:global>
+  :root {
+    --primary-color: #9d4edd;
+    --secondary-color: #d4af37;
+    --dark-bg: #0f0f1e;
+    --card-bg: #1a1a2e;
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --border-color: rgba(212, 175, 55, 0.2);
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: linear-gradient(135deg, var(--dark-bg) 0%, var(--card-bg) 100%);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+</style>
+
+<style>
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    flex: 1;
+  }
+
+  main {
+    line-height: 1.8;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 3px solid;
+    border-image: linear-gradient(90deg, var(--primary-color), var(--secondary-color)) 1;
+    color: var(--secondary-color);
+    font-weight: 600;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    margin: 1.5rem 0 0.5rem 0;
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+
+  section {
+    margin-bottom: 2.5rem;
+  }
+
+  article {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: rgba(26, 26, 46, 0.7);
+    border-left: 4px solid var(--secondary-color);
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+  }
+
+  article:hover {
+    background: rgba(26, 26, 46, 0.95);
+    transform: translateX(5px);
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.15);
+  }
+
+  p {
+    margin: 0.5rem 0;
+    color: var(--text-secondary);
+    font-size: 1rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin: 1rem 0;
+    padding-left: 2rem;
+    position: relative;
+    color: var(--text-secondary);
+  }
+
+  li:before {
+    content: "▸";
+    position: absolute;
+    left: 0.5rem;
+    color: var(--secondary-color);
+    font-weight: bold;
+  }
+
+  li ul {
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  li ul li:before {
+    content: "◆";
+    font-size: 0.7rem;
+  }
+
+  a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+  }
+
+  a:after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    transition: width 0.3s ease;
+  }
+
+  a:hover:after {
+    width: 100%;
+  }
+
+  .badge-container {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    background: rgba(157, 78, 221, 0.05);
+    border-radius: 0.5rem;
+    border: 1px solid var(--border-color);
+  }
+
+  .badge-container img {
+    max-width: 120px;
+    height: auto;
+    border-radius: 0.25rem;
+    transition: transform 0.3s ease;
+  }
+
+  .badge-container img:hover {
+    transform: scale(1.05);
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      padding: 1.5rem 1rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+    }
+
+    article {
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .badge-container {
+      gap: 1rem;
+      justify-content: center;
+    }
+  }
+</style>
